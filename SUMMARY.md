@@ -1,3 +1,8 @@
 # Table of contents
 
-* [example](README.md)
+* [AquaticLib](README.md)
+* [Getting started](getting-started.md)
+
+## Features
+
+* [AquaticString](features/aquaticstring.md)
