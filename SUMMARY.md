@@ -5,4 +5,5 @@
 
 ## Features
 
+* [Holograms](features/holograms.md)
 * [AquaticString](features/aquaticstring.md)

@@ -23,7 +23,7 @@ We are trying to make minecraft coding easy as possible. Library has many utilit
 * Packet based Blocks & Entities
 * World Objects
 * Interactables
-* Minimessage & Legacy message formatting (Built on SpigotAPI and supporting Kyori Components completely)
+* Minimessage & Legacy message formatting (Built on SpigotAPI and supporting Kyori Components completely) - [AquaticString](features/aquaticstring.md)
 * Generic Actions system with serialization
 * Generic Prices system with serialization
 * Generic Conditions system with serialization
@@ -32,4 +32,5 @@ We are trying to make minecraft coding easy as possible. Library has many utilit
 * Items handling with serialization (Being able to get items from other plugins)
 * Custom Networking - packetting
 * NMS Packet Handling with Multi version support
+* Packetbased Holograms with Conditions, Conditional lines, animated lines
 
